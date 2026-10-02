@@ -1,5 +1,6 @@
 # Ignore all files in this directory
 *
+cs315-week4-data/*
 
 # Except for this .gitignore file itself
 !.gitignore
